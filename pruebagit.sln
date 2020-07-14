@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebagit", "pruebagit\pruebagit.csproj", "{F5CEE792-63CC-42B7-BA20-A9D33C58DD10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CEE792-63CC-42B7-BA20-A9D33C58DD10}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F5CEE792-63CC-42B7-BA20-A9D33C58DD10}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F5CEE792-63CC-42B7-BA20-A9D33C58DD10}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F5CEE792-63CC-42B7-BA20-A9D33C58DD10}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
